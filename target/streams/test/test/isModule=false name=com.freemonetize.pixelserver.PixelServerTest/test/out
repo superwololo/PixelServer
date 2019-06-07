@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPixelServerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe PixelServer[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should successfully handle properly formatted /pv endpoint[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should reject the /pv endpoint if it is missing information[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return a 200 OK response for the /live endpoint[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not handle unknown endpoints[0m[0m
